@@ -11,3 +11,11 @@
 - ⚡ Fun fact: Fun fact
  
 ![](cooltext418162947938124.png)
+
+**HORARIO DE TRABAJO Y ESCOLAR**
+
+Trabajo: 9:00 AM - 3:00 PM
+**Traslado: Escuela a trabajo (1h)**
+Escuela: 4:00 PM - 8:00 PM (no hay hora libres)
+
+
