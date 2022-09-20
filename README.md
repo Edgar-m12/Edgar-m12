@@ -32,7 +32,18 @@ Escuela: 4:00 PM - 8:00 PM (no hay hora libres)
 
 ### SPBB22-Exposiciones de los sensores del Simulador
 
-Wokwi fue desarrollado por el mismo Uri y otros colaboradores. El simulador permite trabajar con algunas versiones populares de las tarjetas Arduino, con la Raspberry Pi Pico, ESP32 y hasta con el ATtiny85. Además, cuenta con un buen grupo de periféricos comúnmente usados en los proyectos de electrónica, a esto se suma la ventaja de no tener que esperar a tener todo el hardware en las manos para comenzar las pruebas y que no vamos a poder dañar nada durante las pruebas al trabajar con un hardware virtual.
+Display LCD 16×2 con Fondo Azul es una pequeña pantalla de tipo LCD denominado en inglés “Liquid Crystal Display” y en español “Pantalla de cristal líquido”. Este display tiene un tamaño de 16×2 que hace referencia a que la pantalla cuenta con 2 filas y cada fila tiene la capacidad de mostrar 16 caracteres o símbolos, por lo general alfanuméricos, los cuales se pueden definir desde programación utilizando un microcontrolador o tarjeta de desarrollo.
+
+Este display tiene fondo de color azul y texto blanco, tiene 16 pines para realizar su configuración básica de funcionamiento, así como interconectar a tarjetas de desarrollo.
+
+ESPECIFICACIÓN Y CARACTERÍSTICAS
+Tipo: Pantalla LCD Monocromática
+Voltaje de alimentación: 5V DC
+Interfaz de comunicación: Paralelo 4 u 8 bits
+Filas: 2
+Columnas:16
+Controlador: HD44780
+Color: Fondo azul y texto blanco
 
 [Search](https://palmacas.com/simulador-wokwi/)
 
